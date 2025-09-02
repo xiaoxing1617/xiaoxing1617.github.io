@@ -1,0 +1,23 @@
+{
+    "1000": {
+        "template": "ArcScreen",
+        "name": "Lucky",
+        "remark": "宠物防走丢页",
+        "card_id": "1000",
+        "phone": "15090292090",
+        "birthday": "2023-12-13",
+        "sex": "female",
+        "category": false,
+        "sterilization": true,
+        "breed": "美短虎斑",
+        "portrait": "https://pet-anti-lost.oss-cn-hangzhou.aliyuncs.com/1000/portrait.png",
+        "photos": [
+            "https://pet-anti-lost.oss-cn-hangzhou.aliyuncs.com/1000/1.jpg",
+            "https://pet-anti-lost.oss-cn-hangzhou.aliyuncs.com/1000/2.jpg",
+            "https://pet-anti-lost.oss-cn-hangzhou.aliyuncs.com/1000/3.jpg",
+            "https://pet-anti-lost.oss-cn-hangzhou.aliyuncs.com/1000/4.jpg",
+            "https://pet-anti-lost.oss-cn-hangzhou.aliyuncs.com/1000/5.jpg"
+        ],
+        "hostMsg": "帮忙找回爱猫，本人愿意给予相应的感谢费"
+    }
+}
